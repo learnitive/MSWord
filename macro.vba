@@ -48,7 +48,8 @@ Sub Learnitive()
     Dim startIndex As Integer
     Dim endIndex As Integer
     
-    content = InputBox("Enter your input", "Content")
+    '    content = InputBox("Enter your input", "Content")
+    content = Replace(Selection, ChrW$(13), "")
     
 
     ' Change the key below to your own Learnitive API key
