@@ -51,8 +51,8 @@ Sub Learnitive()
     content = InputBox("Enter your input", "Content")
     
 
-    ' Change the API key to your own
-    apiKey = "YOUR-KEY-HERE"
+' Change the key below to your own Learnitive API key
+apiKey = "YOUR-LEARNITIVE-API-KEY"
     
     ' Modify the API parameter as required
     model = "expert"
