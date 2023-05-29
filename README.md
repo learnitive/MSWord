@@ -39,7 +39,7 @@ This is a simple Microsoft Word Macro allowing you to use AI prompts within Word
 7. Response from the Learnitive API will be inserted into the document where the cursor was last placed.
 
 
-## Shortcut
+## Shortcut: `CTRL + L`
 
 Use the following steps to create a shortcut for the Learnitive macro created above. These instructions may only apply to recent versions of Microsoft Windows. 
 
