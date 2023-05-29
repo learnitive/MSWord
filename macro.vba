@@ -54,8 +54,8 @@ Sub Learnitive()
     ' Change the key below to your own Learnitive API key
     apiKey = "YOUR-LEARNITIVE-API-KEY"
     
-    ' Modify the API parameter as required
-    model = "expert"
+    ' Modify the API parameter as required. Models available: fast, balanced, strong and expert.
+    model = "fast"  
     max_tokens = "100"
     temperature = ".7"
     
