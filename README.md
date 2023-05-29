@@ -11,9 +11,11 @@
     <br />
     <a href="https://www.learnitive.com/ai-api"><strong>Explore the Learnitive API »</strong></a>
     <br />
+    <br />
       <a href="https://www.learnitive.com/">
     <img src="msword-demo-video.gif" alt="Learnitive-video" height="50%">
   </a>
+    <br />
     <br />
     <a href="https://github.com/learnitive/MSWord/issues">Report Bug</a>
     ·
