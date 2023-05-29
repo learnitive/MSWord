@@ -13,7 +13,7 @@
     <br />
     <br />
       <a href="https://www.youtube.com/watch?v=Y3sHQhL-HsE" target="_blank;">
-    <img src="msword-demo-video.gif" alt="Learnitive-video" height="50%">
+    <img src="msword-demo.gif" alt="Learnitive-video" height="50%">
   </a>
     <br />
     <br />
