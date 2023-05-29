@@ -54,7 +54,7 @@ Use the following steps to create a shortcut for the Learnitive macro created ab
 <br />
     <br />
       <a href="https://www.youtube.com/watch?v=Y3sHQhL-HsE" target="_blank;">
-    <img src="shirtcut-demo.gif" alt="Learnitive-video" height="50%">
+    <img src="shortcut-demo.gif" alt="Learnitive-video" height="50%">
   </a>
     <br />
     <br />
