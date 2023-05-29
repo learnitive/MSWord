@@ -46,7 +46,7 @@ Use the following steps to create a shortcut for the Learnitive macro created ab
 1. Click **File** > **Options** > **Customize Ribbon**.
 2. Under **Keyboard shortcuts**, click **customise** and  **Macros** > **Learnitive**.
 3. Press ``CTRL + L`` and **assign** and then close.
-4. Write and select a text and press ``CTRL + L``, your results will appear shortly.
+4. Write and **select a text** and press ``CTRL + L``, your results will appear shortly.
 
 <div align="center">
 
