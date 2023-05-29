@@ -12,7 +12,7 @@
     <a href="https://www.learnitive.com/ai-api"><strong>Explore the Learnitive API »</strong></a>
     <br />
     <br />
-      <a href="https://www.learnitive.com/">
+      <a href="https://www.youtube.com/watch?v=Y3sHQhL-HsE">
     <img src="msword-demo-video.gif" alt="Learnitive-video" height="50%">
   </a>
     <br />
