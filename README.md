@@ -4,7 +4,7 @@
   </a>
 
   <br />
-  <h3 align="center">Learnitive + MS Word</h3>
+  <h3 align="center">Learnitive + MS Word 🚀</h3>
 
   <p align="center">
     Enhance your writing experience with Learnitive + MSWord, a Microsoft Office macro that brings Learnitive AI directly into Word.
