@@ -38,6 +38,33 @@ This is a simple Microsoft Word Macro allowing you to use AI prompts within Word
 6. Run the `Learnitive` subroutine by pressing `Alt-F8` and clicking **Run**. 
 7. Response from the Learnitive API will be inserted into the document where the cursor was last placed.
 
+
+## Create a shortcut
+
+Use the following steps to create a shortcut for the Learnitive macro created above. These instructions may only apply to recent versions of Microsoft Windows. 
+
+1. Click **File** > **Options** > **Customize Ribbon**.
+2. Under **Keyboard shortcuts**, click **customise** and  **Macros** > **Learnitive**.
+3. Press ``CTRL + L`` and **assign** and then close.
+4. Write and select a text and press ``CTRL + L``, your results will appear shortly.
+
+<div align="center">
+
+  <p align="center">
+<br />
+    <br />
+      <a href="https://www.youtube.com/watch?v=Y3sHQhL-HsE" target="_blank;">
+    <img src="shirtcut-demo.gif" alt="Learnitive-video" height="50%">
+  </a>
+    <br />
+    <br />
+    </p>
+
+
+</div>
+
+
+
 ## Troubleshooting
 
 If you receive an error related to `WinHttp.WinHttpRequest.5.1`, it means that the `WinHttp` library is not registered on your computer. To resolve this issue, you can try re-registering the library by running the following command in an elevated command prompt:
