@@ -1,16 +1,13 @@
-## Learnitive + MSWord 🚀
-A simple Microsoft Word Macro allowing you to use AI prompts within Word through the Learnitive API. 
-
 <div align="center">
   <a href="https://www.learnitive.com/">
     <img src="favicon-social-transparent.png" alt="Logo" height="100">
   </a>
 
   <br />
-  <h3 align="center">Learnitive</h3>
+  <h3 align="center">Learnitive + MS Word</h3>
 
   <p align="center">
-    Enhance your writing experience with Learnitive + MSWord, a Microsoft Office add-in that brings Learnitive AI directly into Word.
+    Enhance your writing experience with Learnitive + MSWord, a Microsoft Office macro that brings Learnitive AI directly into Word.
     <br />
     <a href="https://www.learnitive.com/ai-api"><strong>Explore the Learnitive API »</strong></a>
     <br />
@@ -26,7 +23,7 @@ A simple Microsoft Word Macro allowing you to use AI prompts within Word through
 
 ## Usage
 
-These instructions may only apply to recent versions of Microsoft Windows.  You will need 
+This is a simple Microsoft Word Macro allowing you to use AI prompts within Word through the Learnitive API. These instructions may only apply to recent versions of Microsoft Windows. 
 
 1. Open **Microsoft Word** `>` **View** `>` **Macros** (or `Alt-F8`).
 2. Enter a name (should be **"Learnitive"** or you will need to change the macro code).
