@@ -64,17 +64,6 @@ Use the following steps to create a shortcut for the Learnitive macro created ab
 </div>
 
 
-
-## Troubleshooting
-
-If you receive an error related to `WinHttp.WinHttpRequest.5.1`, it means that the `WinHttp` library is not registered on your computer. To resolve this issue, you can try re-registering the library by running the following command in an elevated command prompt:
-
-```
-regsvr32 %systemroot%\system32\winhttp.dll
-```
-
-If the error persists, you may need to reinstall the library. You can download it from the Microsoft website.
-
 ## Disclaimer
 The authors and contributors of this program provide it as-is, without any warranties or guarantees. They cannot be held responsible for any damages resulting from the use of this program.
 
