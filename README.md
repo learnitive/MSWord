@@ -9,7 +9,7 @@ These instructions may only apply to recent versions of Microsoft Windows.  You 
 2. Enter a name (should be Learnitive or you will need to change the macro code), make sure normal.dotm is selected in the Macros In pulldown menu then click Create.
 3. The editor will open up, replace everything with the code in the macro.vba file.
 4. Replace `YOUR-KEY-HERE` with your own Learnitive API key. 
-5. Run the `ChatGPT` subroutine by pressing Alt-F8 and clicking run. Get your key from [https://www.learnitive.com/ai-api](https://www.learnitive.com/ai-api)
+5. Run the `Learnitive` subroutine by pressing Alt-F8 and clicking run. Get your key from [https://www.learnitive.com/ai-api](https://www.learnitive.com/ai-api)
 6. Enter the prompt you want to send to the Learnitive API in the input box that appears.
 7. The response from the Learnitive API will be inserted into the document where the cursor was last placed.
 
