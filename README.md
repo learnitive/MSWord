@@ -37,7 +37,8 @@ This is a simple Microsoft Word Macro allowing you to use AI prompts within Word
 5. Enter the `input prompt` (**select text**) you want to send to the **Learnitive API** .
 6. Run the `Learnitive` subroutine by pressing `Alt-F8` and clicking **Run**. 
 7. Response from the Learnitive API will be inserted into the document where the cursor was last placed.
-## For langauges other than English
+
+## Languages
 
 Please replace the line no. 66 of `macro.vba` as follows:
 
@@ -45,7 +46,7 @@ Please replace the line no. 66 of `macro.vba` as follows:
 lang = "fr"
 requestPayload = "{""input"":""" & content & """, ""model"":""" & model & """, ""lang"":""" & lang & """ , ""max_tokens"":""" & max_tokens & """, ""temperature"":""" & temperature & """ }"
 ```
-
+Supported language codes: https://help.learnitive.com/article/suppoted-languages/
 
 ## Shortcut: `CTRL + L`
 
