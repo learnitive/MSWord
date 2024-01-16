@@ -40,7 +40,7 @@ This is a simple Microsoft Word Macro allowing you to use AI prompts within Word
 
 ## Languages
 
-Please replace the `line 66` of the `macro.vba` as follows:
+Please replace the `line 66` of the `macro.vba` as follows to change the language (e.g., for French use `fr`):
 
 ```
 lang = "fr"
