@@ -44,11 +44,9 @@ Please replace the `line 66` of the `macro.vba` as follows:
 
 ```
 lang = "fr"
-requestPayload = "{""input"":""" & content & """, ""model"":""" & model & """,
-""lang"":""" & lang & """ , ""max_tokens"":""" & max_tokens & """,
-""temperature"":""" & temperature & """ }"
+requestPayload = "{""input"":""" & content & """, ""model"":""" & model & """, ""lang"":""" & lang & """ , ""max_tokens"":""" & max_tokens & """, ""temperature"":""" & temperature & """ }"
 ```
-Supported language codes: https://help.learnitive.com/article/suppoted-languages/
+Supported language codes list: https://help.learnitive.com/article/suppoted-languages/
 
 ## Shortcut: `CTRL + L`
 
