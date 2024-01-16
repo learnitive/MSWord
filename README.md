@@ -40,11 +40,13 @@ This is a simple Microsoft Word Macro allowing you to use AI prompts within Word
 
 ## Languages
 
-Please replace the line no. 66 of `macro.vba` as follows:
+Please replace the `line 66` of the `macro.vba` as follows:
 
 ```
 lang = "fr"
-requestPayload = "{""input"":""" & content & """, ""model"":""" & model & """, ""lang"":""" & lang & """ , ""max_tokens"":""" & max_tokens & """, ""temperature"":""" & temperature & """ }"
+requestPayload = "{""input"":""" & content & """, ""model"":""" & model & """,
+""lang"":""" & lang & """ , ""max_tokens"":""" & max_tokens & """,
+""temperature"":""" & temperature & """ }"
 ```
 Supported language codes: https://help.learnitive.com/article/suppoted-languages/
 
