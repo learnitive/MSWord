@@ -63,7 +63,9 @@ Sub Learnitive()
     ' API endpoint url, learn more at https://www.learnitive.com/ai-api
     apiUrl = "https://www.learnitive.com/api/v1/contents"
       
-    requestPayload = "{""input"":""" & content & """, ""model"":""" & model & """, ""max_tokens"":""" & max_tokens & """, ""temperature"":""" & temperature & """ }"
+    lang = "en"
+    requestPayload = "{""input"":""" & content & """, ""model"":""" & model & """, ""lang"":""" & lang & """ , ""max_tokens"":""" & max_tokens & """, ""temperature"":""" & temperature & """ }"
+
     
     Set httpRequest = CreateObject("WinHttp.WinHttpRequest.5.1")
     httpRequest.Open "POST", apiUrl, False
